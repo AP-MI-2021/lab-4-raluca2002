@@ -151,7 +151,6 @@ if __name__=='__main__':
  test_oglindit()
  test_divizibil_cu_toate_elementele()
  test_inlocuire_element()
-
-  main()
+ main()
 
 
